@@ -1,5 +1,7 @@
 103.181.0.0/24,HK,,HongKong,
 45.138.211.0/24,HK,,HongKong,
 103.181.1.0/24,JP,JP-13,Tokyo,
+43.255.80.0/24,SG,SG-02,Singapore,
 2400:56a0:100::/40,HK,,HongKong,
 2400:56a0:200::/40,JP,JP-13,Tokyo,
+2400:56a0:300::/40,SG,SG-02,Singapore,
